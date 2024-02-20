@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "E4-The-Big-Three (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "E4-The-Big-Three (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
