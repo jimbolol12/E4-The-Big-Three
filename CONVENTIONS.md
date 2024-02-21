@@ -18,6 +18,12 @@ Dit staat niet ter discussie. Zorg dat wanneer en een nieuwe pagina gemaakt moet
 
 #
 
+**Branches binnen github**
+
+Maak een nieuwe branch aan voor elke nieuwe ticket die je maakt om de branches overzichtelijk te houden.
+
+#
+
 **Variabele namen zijn geschreven in lowerCamelCase**
 
 *Voorbeeld van een goede manier om dit te doen:*
