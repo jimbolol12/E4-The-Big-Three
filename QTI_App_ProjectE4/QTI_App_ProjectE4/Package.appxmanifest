@@ -8,15 +8,15 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="ffe72dd7-661d-4c6c-8278-2b06188fc3a7"
-    Publisher="CN=Jimbo"
+    Name="6f1bc793-826d-4b71-808d-4ec8bef474a9"
+    Publisher="CN=yello"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="ffe72dd7-661d-4c6c-8278-2b06188fc3a7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="6f1bc793-826d-4b71-808d-4ec8bef474a9" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>qti v2 Big Tree</DisplayName>
-    <PublisherDisplayName>Jimbo</PublisherDisplayName>
+    <DisplayName>QTI_App_ProjectE4</DisplayName>
+    <PublisherDisplayName>yello</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -34,8 +34,8 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="$targetentrypoint$">
       <uap:VisualElements
-        DisplayName="qti v2 Big Tree"
-        Description="qti v2 Big Tree"
+        DisplayName="QTI_App_ProjectE4"
+        Description="QTI_App_ProjectE4"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png">

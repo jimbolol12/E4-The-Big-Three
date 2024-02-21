@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "qti v2 Big Tree (Package)": {
+    "QTI_App_ProjectE4 (Package)": {
       "commandName": "MsixPackage"
     },
-    "qti v2 Big Tree (Unpackaged)": {
+    "QTI_App_ProjectE4 (Unpackaged)": {
       "commandName": "Project"
     }
   }
