@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "E4-The-Big-Three (Package)": {
+    "qti v2 Big Tree (Package)": {
       "commandName": "MsixPackage"
     },
-    "E4-The-Big-Three (Unpackaged)": {
+    "qti v2 Big Tree (Unpackaged)": {
       "commandName": "Project"
     }
   }
