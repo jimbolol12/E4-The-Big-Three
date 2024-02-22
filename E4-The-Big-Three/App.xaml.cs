@@ -19,7 +19,7 @@ using Windows.Foundation.Collections;
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.
 
-namespace QTI_App_ProjectE4
+namespace E4_The_Big_Three
 {
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.

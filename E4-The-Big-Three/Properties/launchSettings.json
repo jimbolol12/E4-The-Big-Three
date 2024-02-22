@@ -1,9 +1,9 @@
 {
   "profiles": {
-    "QTI_App_ProjectE4 (Package)": {
+    "E4-The-Big-Three (Package)": {
       "commandName": "MsixPackage"
     },
-    "QTI_App_ProjectE4 (Unpackaged)": {
+    "E4-The-Big-Three (Unpackaged)": {
       "commandName": "Project"
     }
   }
